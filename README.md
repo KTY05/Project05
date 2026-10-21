@@ -8,3 +8,4 @@ Project 05 version1 completed
 Project 05 version2 completed
 
 3nd Team Member: 김태유
+3nd Team Member: 20251039
