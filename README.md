@@ -6,3 +6,5 @@ Project 05 version1 completed
 2nd Team Member: 20251062
 2nd Team Member: 정다인
 Project 05 version2 completed
+
+3nd Team Member: 김태유
